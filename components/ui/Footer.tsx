@@ -4,7 +4,7 @@ import Link from "next/link";
 import Image from "next/image";
 
 import ApplePodcast from "@/public/ApplePodcast-White.png";
-import SoundCloud from "@/public/SoundCloud-White.png";
+import SoundCloud from "@/public/Soundcloud-White.png";
 import GooglePodcast from "@/public/GooglePodcast-White.png";
 import Spotify from "@/public/Spotify-White.png";
 
